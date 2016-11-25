@@ -8,5 +8,12 @@ Profe | Citas | H |
 [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 554 | 13 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 3231 | 12 |
 [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 1194 | 12 |
+[Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) |423 | 9 |
+[Pedro Bargueño](https://scholar.google.com.co/citations?user=euepDO8AAAAJ&hl=en) | 267 | 9 |
 [Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 1241 | 8 |
 [Alonso Botero](https://scholar.google.com.co/citations?user=e06A7mUAAAAJ&hl=en) |558 | 7| 
+[Edgar Patino](https://scholar.google.com.co/citations?user=bx4dJNgAAAAJ&hl=en) | 140 | 7 |
+[José Alejandro García Varela](https://scholar.google.com.co/citations?user=iA0H5dgAAAAJ&hl=en) | 111 | 6 |
+[Beatriz Eugenia Sabogal Martínez](https://scholar.google.com.co/citations?user=T-0RjQYAAAAJ&hl=en) | 108 | 6 |
+[Andrés F. Reyes-Lega](https://scholar.google.com.co/citations?user=04V0g64AAAAJ&hl=en) | 94 | 5 | 
+[Mayerlin Nuñez Portela](https://scholar.google.com.co/citations?user=znFnm4wAAAAJ&hl=en) | 76 | 5 |

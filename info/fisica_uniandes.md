@@ -4,6 +4,9 @@ Profe | Citas | H |
 [Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 6998 | 21 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 1176 | 17 |
 [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 691 | 16 |
+[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 576 | 13 |
+[Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 554 | 13 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 3231 | 12 |
 [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 1194 | 12 |
 [Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 1241 | 8 |
+[Alonso Botero](https://scholar.google.com.co/citations?user=e06A7mUAAAAJ&hl=en) |558 | 7| 

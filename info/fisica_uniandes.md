@@ -1,3 +1,5 @@
+Solamente toma en cuenta citaciones en los últimos cinco años
+
 Profesor | Citas | H |
 ----  | ----- | --- |
 [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) |141956| 161|

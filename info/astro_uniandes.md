@@ -1,5 +1,5 @@
 
-| Nombre | Articulos | Citaciones | Indice-H | Año primera publicación |
+| Nombre | Artículos | Citaciones | Indice-H | Año primera publicación |
 | ------ | --------- | ---------| ----------| ------------------ |
 | K. Vieira | 22 | 575 | 11 | 1999 | 
 | B. Sabogal / Sabogal-Martinez | 14 | 129 | 8 | 2001 |

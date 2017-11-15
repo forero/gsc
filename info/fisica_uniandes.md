@@ -2,12 +2,12 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 
 Profesor | Citas | H | Años Actividad |
 ----  | ----- | --- | --- |
-[Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) |142867| 161 |  10 | 
-[Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 7175 | 21 | 10 | 
-[Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 616 | 15 | 28 |
-[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 718 | 14 | 10 |
-[Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 769 | 13 | 15 |
-[Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1327 | 11 | 18 |
+[Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) |144808| 162 |  10 | 
+[Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 7261 | 21 | 10 | 
+[Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 619 | 15 | 28 |
+[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 724 | 14 | 10 |
+[Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 777 | 13 | 15 |
+[Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1338 | 11 | 18 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 434 | 11 | 27 |
 [Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 447 | 10 | 12 |
 [Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 711 | 9 | 14 |

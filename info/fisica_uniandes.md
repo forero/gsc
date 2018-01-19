@@ -12,8 +12,8 @@ Profesor | Citas | H | Años Actividad |
 [Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 485 | 11 | 13 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 390 | 10 | 28 |
 [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 332 | 10 | 27 |
-[Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 592 | 9 | 15 |
 [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 255 | 10 | 23 |
+[Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 592 | 9 | 15 |
 [Pedro Bargueño](https://scholar.google.com.co/citations?user=euepDO8AAAAJ&hl=en) | 203 | 8 | 12 |
 [Alonso Botero](https://scholar.google.com.co/citations?user=e06A7mUAAAAJ&hl=en) | 257 | 6 | 19 |
 [José Alejandro García Varela](https://scholar.google.com.co/citations?user=iA0H5dgAAAAJ&hl=en) | 94 | 5 | 17 |

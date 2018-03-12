@@ -1,6 +1,6 @@
 Solamente toma en cuenta citaciones en los últimos cinco años
 
-Profesor | Citas | H | Años Actividad |
+Profesor | Citas | H-index | Años Actividad |
 ----  | ----- | --- | --- |
 [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) |137095| 153 |  11 | 
 [Carlos Arturo Avila](https://scholar.google.com.co/citations?user=jitNa1QAAAAJ&hl=en)| 20421 | 23 | 19 |

@@ -3,6 +3,7 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 Profesor | Citas | H | Años Actividad |
 ----  | ----- | --- | --- |
 [Felipe Guhl](https://scholar.google.com/citations?user=E_DHqIcAAAAJ&hl=en) | 3591 | 29 | 27 | 
+[Juan Armando Sánchez](https://scholar.google.com/citations?user=l8nad3oAAAAJ&hl=en)| 1910 | 23 | 19 | 
 [Silvia Restrepo](https://scholar.google.com/citations?user=7_dVIeAAAAAJ&hl=en)| 2318| 22| 20|
 [Andrew J. Crawford](https://scholar.google.com/citations?user=XLYvOpMAAAAJ&hl=en)| 1278|20 | 19|
 [Carlos Daniel Cadena](https://scholar.google.com/citations?user=HC_mHmUAAAAJ&hl=en) | 1644 | 18| 15|

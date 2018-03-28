@@ -22,6 +22,7 @@ Profesor | Citas | H | Años Actividad |
 [Helena Groot](https://scholar.google.com/citations?user=FXehv54AAAAJ&hl=en) | 478| 7 |  16 |
 [Martha Vives](https://scholar.google.com/citations?user=FmskIBcAAAAJ&hl=en)| 128| 7 | 11|
 [Adriana Marcela Celis Ramírez](https://scholar.google.com/citations?user=cSNByG0AAAAJ&hl=en) | 112 | 7 | 14|
+[Emilio Realpe](https://scholar.google.com/citations?user=fuKuXU0AAAAJ&hl=en)|109|6|14|
 [Jinneth Lorena Castro Mayorga](https://scholar.google.com/citations?user=rqY8KlMAAAAJ&hl=en) | 93 | 6 | 4|
 [Zayra Garavito-Aguilar](https://scholar.google.com/citations?user=J1xQFB4AAAAJ&hl=en&oi=ao) | 316| 5 | 15|
 [Barbara H. Zimmermann](https://scholar.google.com/citations?user=DOeJlG4AAAAJ&hl=en) | 100| 5 | 31|

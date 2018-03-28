@@ -5,6 +5,7 @@ Profesor | Citas | H | Años Actividad |
 [Felipe Guhl](https://scholar.google.com/citations?user=E_DHqIcAAAAJ&hl=en) | 3591 | 29 | 27 | 
 [Juan Armando Sánchez](https://scholar.google.com/citations?user=l8nad3oAAAAJ&hl=en)| 1910 | 23 | 19 | 
 [Silvia Restrepo](https://scholar.google.com/citations?user=7_dVIeAAAAAJ&hl=en)| 2318| 22| 20|
+[Pablo Stevenson](https://scholar.google.com/citations?user=NRb_QsIAAAAJ&hl=en) | 1600 | 22 | 20 | 
 [Andrew J. Crawford](https://scholar.google.com/citations?user=XLYvOpMAAAAJ&hl=en)| 1278|20 | 19|
 [Carlos Daniel Cadena](https://scholar.google.com/citations?user=HC_mHmUAAAAJ&hl=en) | 1644 | 18| 15|
 [Adriana Bernal](https://scholar.google.com/citations?user=vQ9yFZoAAAAJ&hl=en) | 1109| 18| 19|
@@ -13,6 +14,7 @@ Profesor | Citas | H | Años Actividad |
 [Andres Link](https://scholar.google.com/citations?user=BkuODsEAAAAJ&hl=en) | 791| 14|14|
 [Susana Caballero](https://scholar.google.com/citations?user=ArkqZi4AAAAJ&hl=en) | 611 | 13 | 18|
 [Diego Javier Jimenez Ph.D.](https://scholar.google.com/citations?user=zStJb4wAAAAJ&hl=en) | 420|12|7|
+[Alejandro Reyes Muñoz](https://scholar.google.com/citations?user=hbXF8UEAAAAJ&hl=en)| 2015|11| 12|
 [Catalina Gonzalez](https://scholar.google.com/citations?user=KvbIIjYAAAAJ&hl=en) | 307|11 | 12|
 [Carlos Jaramillo](https://scholar.google.com/citations?user=6wyy5-wAAAAJ&hl=en) | 251 | 9 | 30|
 [Eloisa Lasso](https://scholar.google.com/citations?user=V8_nGxAAAAAJ&hl=en) | 406 | 8 | 19 | 
@@ -22,5 +24,7 @@ Profesor | Citas | H | Años Actividad |
 [Adriana Marcela Celis Ramírez](https://scholar.google.com/citations?user=cSNByG0AAAAJ&hl=en) | 112 | 7 | 14|
 [Jinneth Lorena Castro Mayorga](https://scholar.google.com/citations?user=rqY8KlMAAAAJ&hl=en) | 93 | 6 | 4|
 [Zayra Garavito-Aguilar](https://scholar.google.com/citations?user=J1xQFB4AAAAJ&hl=en&oi=ao) | 316| 5 | 15|
+[Barbara H. Zimmermann](https://scholar.google.com/citations?user=DOeJlG4AAAAJ&hl=en) | 100| 5 | 31|
 [maria claudia Lattig](https://scholar.google.com/citations?user=GXeR6rIAAAAJ&hl=en)| 92| 5| 13|
 [Maria del Pilar Delgado Perafan](https://scholar.google.com/citations?user=UO8_KrMAAAAJ&hl=en)| 74|4|15|
+[Alfredo Uribe Ardila](https://scholar.google.com/citations?user=cKKsleUAAAAJ&hl=en) | 54 | 4 | 22|

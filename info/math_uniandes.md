@@ -5,11 +5,13 @@ Profesor | Citas | H | Años Actividad |
 [Mauricio Velasco](https://scholar.google.com/citations?user=2Z8U2DcAAAAJ&hl=en)| 248| 10| 14|
 [Alexander J. Berenstein](https://scholar.google.com/citations?user=MVlKsDoAAAAJ&hl=en)| 345 | 8| 17|
 [César Galindo](https://scholar.google.com/citations?user=ozJrzUEAAAAJ&hl=en) | 157 |8 | 12|
+[John Goodrick](https://scholar.google.com/citations?user=yXqz5t0AAAAJ&hl=en)| 141| 8 | 12|
 [Alf Onshuus](https://scholar.google.com/citations?user=Ov2U9EoAAAAJ&hl=en)| 211 | 7 | 14 |
 [Adolfo J. Quiroz](https://scholar.google.com/citations?user=qwMDh-4AAAAJ&hl=en)|196| 7 | 28|
 [Monika Winklmeier](https://scholar.google.com/citations?user=rHoZFKQAAAAJ&hl=en)| 78 | 6 | 14 |
 [Tristram Bogart](https://scholar.google.com/citations?user=YbicPRQAAAAJ&hl=en) | 125| 6| 13 |
 [Maricarmen Martínez](https://scholar.google.com/citations?user=Q0fgYywAAAAJ&hl=en) | 89 | 5 | 8 |
+[Michael Anton Hoegele](https://scholar.google.com/citations?user=HHSb1iEAAAAJ&hl=en) | 62| 5 | 8 |
 [Carolina Benedetti](https://scholar.google.com/citations?user=b8qfHuwAAAAJ&hl=en)| 137 | 5 | 9|
 [Mauricio Junca](https://scholar.google.com/citations?user=CoIlxH0AAAAJ&hl=en)| 73| 5 | 11|
 [Florent Schaffhauser](https://scholar.google.com/citations?user=Xu_2niIAAAAJ&hl=en)| 55|4|15|

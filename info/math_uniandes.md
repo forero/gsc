@@ -11,3 +11,4 @@ Profesor | Citas | H | Años Actividad |
 [Tristram Bogart](https://scholar.google.com/citations?user=YbicPRQAAAAJ&hl=en) | 125| 6| 13 |
 [Maricarmen Martínez](https://scholar.google.com/citations?user=Q0fgYywAAAAJ&hl=en) | 89 | 5 | 8 |
 [Carolina Benedetti](https://scholar.google.com/citations?user=b8qfHuwAAAAJ&hl=en)| 137 | 5 | 9|
+[Ramiro de la Vega](https://scholar.google.com/citations?user=5v8TawIAAAAJ&hl=en)|29| 3 | 23|

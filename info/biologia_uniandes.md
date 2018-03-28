@@ -11,10 +11,15 @@ Profesor | Citas | H | Años Actividad |
 [Santiago Madriñán](https://scholar.google.com/citations?user=K9Wwx68AAAAJ&hl=en)|1943|15|14|
 [Andres Link](https://scholar.google.com/citations?user=BkuODsEAAAAJ&hl=en) | 791| 14|14|
 [Susana Caballero](https://scholar.google.com/citations?user=ArkqZi4AAAAJ&hl=en) | 611 | 13 | 18|
-[Camilo Aponte-Santamaría](https://scholar.google.com/citations?user=9Au8lXoAAAAJ&hl=en) | 544 | 11| 10|
+[Diego Javier Jimenez Ph.D.](https://scholar.google.com/citations?user=zStJb4wAAAAJ&hl=en) | 420|12|7|
+[Catalina Gonzalez](https://scholar.google.com/citations?user=KvbIIjYAAAAJ&hl=en) | 307|11 | 12|
 [Carlos Jaramillo](https://scholar.google.com/citations?user=6wyy5-wAAAAJ&hl=en) | 251 | 9 | 30|
 [Eloisa Lasso](https://scholar.google.com/citations?user=V8_nGxAAAAAJ&hl=en) | 406 | 8 | 19 | 
+[Jorge Alberto Molina Escobar](https://scholar.google.com/citations?user=nCoNP_MAAAAJ&hl=en&oi=ao)| 211 | 8 | 17 | 
+[Helena Groot](https://scholar.google.com/citations?user=FXehv54AAAAJ&hl=en) | 478| 7 |  16 |
+[Martha Vives](https://scholar.google.com/citations?user=FmskIBcAAAAJ&hl=en)| 128| 7 | 11|
 [Adriana Marcela Celis Ramírez](https://scholar.google.com/citations?user=cSNByG0AAAAJ&hl=en) | 112 | 7 | 14|
 [Jinneth Lorena Castro Mayorga](https://scholar.google.com/citations?user=rqY8KlMAAAAJ&hl=en) | 93 | 6 | 4|
 [Zayra Garavito-Aguilar](https://scholar.google.com/citations?user=J1xQFB4AAAAJ&hl=en&oi=ao) | 316| 5 | 15|
+[maria claudia Lattig](https://scholar.google.com/citations?user=GXeR6rIAAAAJ&hl=en)| 92| 5| 13|
 [Maria del Pilar Delgado Perafan](https://scholar.google.com/citations?user=UO8_KrMAAAAJ&hl=en)| 74|4|15|

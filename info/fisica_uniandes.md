@@ -3,6 +3,7 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 Profesor | Citas | H-index | Años Actividad |
 ----  | ----- | --- | --- |
 [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) |140970| 156 |  11 | 
+[Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 67634 | 107| 8|
 [Carlos Arturo Avila](https://scholar.google.com.co/citations?user=jitNa1QAAAAJ&hl=en)| 20841 | 23 | 19 |
 [Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 6989 | 21 | 11 | 
 [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 722 | 13 | 11 |

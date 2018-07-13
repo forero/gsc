@@ -1,6 +1,6 @@
 Solamente toma en cuenta citaciones en los últimos cinco años
 
-Profesor | Citas | H-index | Años Actividad |
+Profesor | Citas | H-index | Años con Citaciones |
 ----  | ----- | --- | --- |
 [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) |150542| 161 |  11 | 
 [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 68334 | 109 | 8|

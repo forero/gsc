@@ -2,14 +2,14 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 
 Profesor | Citas | H-index | Años con Citaciones |
 ----  | ----- | --- | --- |
-[Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 163752 | 170 |  11 | 
-[Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 74208 | 113 | 8|
-[Carlos Arturo Avila](https://scholar.google.com.co/citations?user=jitNa1QAAAAJ&hl=en)| 23612 | 22 | 19 |
-[Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 8198 | 22 | 11 | 
-[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 876 | 15 | 11 |
-[Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 817 | 13 | 16 |
-[Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 659 | 13 | 13 |
-[Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 581 | 13 | 29 |
+[Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 144345 | 155 |  12 | 
+[Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 66845 | 109 | 10 |
+[Carlos Arturo Avila](https://scholar.google.com.co/citations?user=jitNa1QAAAAJ&hl=en)| 20201 | 22 | 15 |
+[Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 7257 | 22 | 12 | 
+[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 837 | 14 | 11 |
+[Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 711 | 13 | 16 |
+[Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 649 | 13 | 13 |
+[Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 520 | 12 | 30 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1355 | 12 | 19 |
 [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 389 | 12 | 19 |
 [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 439 | 11 | 27 |

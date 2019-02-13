@@ -23,6 +23,7 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Edgar Patino](https://scholar.google.com.co/citations?user=bx4dJNgAAAAJ&hl=en) | 104 | 6 | 17 | 
 [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com.co/citations?user=T-0RjQYAAAAJ&hl=en) | 83 | 6 | 17 |
 [José Alejandro García Varela](https://scholar.google.com.co/citations?user=iA0H5dgAAAAJ&hl=en) | 108 | 5 | 17 |
+[Benjamin Oostra](https://scholar.google.com/citations?user=A-57orIAAAAJ&hl=en&oi=ao)| 23 | 3 | 13 |
 [Andrés F. Reyes-Lega](https://scholar.google.com.co/citations?user=04V0g64AAAAJ&hl=en) | 97 | 2 | 14 | 
 
 

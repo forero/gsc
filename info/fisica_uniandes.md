@@ -15,11 +15,11 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 439 | 11 | 27 |
 [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 276 | 11 | 23 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 451 | 10 | 28 |
+[Pedro Bargueño](https://scholar.google.com.co/citations?user=euepDO8AAAAJ&hl=en) | 284 | 10 | 12 |
 [Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 717 | 9 | 15 |
-[Pedro Bargueño](https://scholar.google.com.co/citations?user=euepDO8AAAAJ&hl=en) | 292 | 9 | 12 |
 [Paula Giraldo-Gallo](https://scholar.google.com/citations?user=Gr5FaIoAAAAJ) | 202 | 9 | 8 |
-[Alonso Botero](https://scholar.google.com.co/citations?user=e06A7mUAAAAJ&hl=en) | 315 | 7 | 19 |
-[Mayerlin Nuñez Portela](https://scholar.google.com.co/citations?user=znFnm4wAAAAJ&hl=en) | 107 | 6 | 9 |
+[Alonso Botero](https://scholar.google.com.co/citations?user=e06A7mUAAAAJ&hl=en) | 296 | 7 | 19 |
+[Mayerlin Nuñez Portela](https://scholar.google.com.co/citations?user=znFnm4wAAAAJ&hl=en) | 106 | 7 | 9 |
 [Edgar Patino](https://scholar.google.com.co/citations?user=bx4dJNgAAAAJ&hl=en) | 104 | 6 | 17 | 
 [Beatriz Eugenia Sabogal Martínez](https://scholar.google.com.co/citations?user=T-0RjQYAAAAJ&hl=en) | 83 | 6 | 17 |
 [José Alejandro García Varela](https://scholar.google.com.co/citations?user=iA0H5dgAAAAJ&hl=en) | 108 | 5 | 17 |

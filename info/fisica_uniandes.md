@@ -5,13 +5,13 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 144345 | 155 |  12 | 
 [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 66845 | 109 | 10 |
 [Carlos Arturo Avila](https://scholar.google.com.co/citations?user=jitNa1QAAAAJ&hl=en)| 20201 | 22 | 15 |
-[Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 7257 | 22 | 12 | 
-[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 837 | 14 | 11 |
+[Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 7441 | 21 | 12 | 
+[Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 828 | 14 | 11 |
 [Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 698 | 14 | 13 |
-[Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 711 | 13 | 16 |
-[Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 520 | 12 | 30 |
-[Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1355 | 12 | 19 |
-[Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 439 | 11 | 27 |
+[Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 745 | 13 | 16 |
+[Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 542 | 12 | 30 |
+[Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 401 | 12 | 27 |
+[Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1094 | 11 | 19 |
 [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 348 | 11 | 19 |
 [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 276 | 11 | 23 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 451 | 10 | 28 |

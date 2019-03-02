@@ -11,8 +11,8 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 711 | 13 | 16 |
 [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 520 | 12 | 30 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1355 | 12 | 19 |
-[Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 389 | 12 | 19 |
 [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 439 | 11 | 27 |
+[Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 348 | 11 | 19 |
 [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 276 | 11 | 23 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 451 | 10 | 28 |
 [Pedro Bargueño](https://scholar.google.com.co/citations?user=euepDO8AAAAJ&hl=en) | 284 | 10 | 12 |

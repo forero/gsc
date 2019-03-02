@@ -7,8 +7,8 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Carlos Arturo Avila](https://scholar.google.com.co/citations?user=jitNa1QAAAAJ&hl=en)| 20201 | 22 | 15 |
 [Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 7257 | 22 | 12 | 
 [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 837 | 14 | 11 |
+[Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 698 | 14 | 13 |
 [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 711 | 13 | 16 |
-[Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 649 | 13 | 13 |
 [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 520 | 12 | 30 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1355 | 12 | 19 |
 [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 389 | 12 | 19 |

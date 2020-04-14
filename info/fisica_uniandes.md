@@ -11,8 +11,8 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 614 | 14 | 30 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1122 | 12 | 19 |
 [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 500 | 12 | 27 |
+[Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 359 | 12 | 19 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 441 | 11 | 28 |
-[Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 355 | 11 | 19 |
 [Paula Giraldo-Gallo](https://scholar.google.com/citations?user=Gr5FaIoAAAAJ) | 330 | 11 | 8 |
 [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 282 | 10 | 23 |
 [Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 652 | 9 | 15 |

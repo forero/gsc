@@ -9,8 +9,8 @@ Profesor | Citas | H-index | Años con Citaciones |
 [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 932 | 14 | 11 |
 [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 822 | 14 | 16 |
 [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 614 | 14 | 30 |
+[Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 505 | 13 | 27 |
 [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1122 | 12 | 19 |
-[Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 500 | 12 | 27 |
 [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 359 | 12 | 19 |
 [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 441 | 11 | 28 |
 [Paula Giraldo-Gallo](https://scholar.google.com/citations?user=Gr5FaIoAAAAJ) | 330 | 11 | 8 |

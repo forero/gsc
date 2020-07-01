@@ -6,9 +6,9 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 | 2. | [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 75617 | 120 | 11 |
 | 3. | [Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 8034 | 21 | 13 | 
 | 4. | [Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 839 | 16 | 13 |
-| 7. | [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 645 | 15 | 30 |
+| 5. | [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 645 | 15 | 30 |
 | 6. | [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 868 | 14 | 16 |
-| 5. | [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 951 | 13 | 11 |
+| 7. | [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 951 | 13 | 11 |
 | 8. | [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 528 | 13 | 27 |
 | 9. | [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1159 | 12 | 19 |
 | 10. | [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 391 | 12 | 19 |

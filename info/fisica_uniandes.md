@@ -2,17 +2,17 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 
 | ID |Profesor | Citas | H-index | Años con Citaciones |
 | --- | ----  | ----- | --- | --- |
-| 1. | [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 179786 | 173 |  13 | 
-| 2. | [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 75617 | 120 | 11 |
+| 1. | [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 179786 | 176 |  13 | 
+| 2. | [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 75617 | 124 | 11 |
 | 3. | [Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 8034 | 21 | 13 | 
 | 4. | [Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 839 | 16 | 13 |
 | 5. | [Marek Nowakowski](https://scholar.google.com.co/citations?user=ctFaBNQAAAAJ&hl=en) | 645 | 15 | 30 |
 | 6. | [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 868 | 14 | 16 |
-| 7. | [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 951 | 13 | 11 |
-| 8. | [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 528 | 13 | 27 |
-| 9. | [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1159 | 12 | 19 |
-| 10. | [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 391 | 12 | 19 |
-| 11. | [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 449 | 11 | 28 |
+| 7. | [Neelima Kelkar](https://scholar.google.com.co/citations?user=BMxIj5AAAAAJ&hl=en) | 541 | 14 | 27 |
+| 8. | [Jaime E. Forero-Romero](https://scholar.google.com.co/citations?user=TLTK6WgAAAAJ&hl=en) | 951 | 13 | 11 |
+| 9. | [Luis Quiroga](https://scholar.google.com.co/citations?user=PPvfyVwAAAAJ&hl=en) | 477 | 13 | 28 |
+| 10. | [Manu Forero Shelton](https://scholar.google.com.co/citations?user=0_jvORsAAAAJ&hl=en) | 1159 | 12 | 19 |
+| 11. | [Chad Leidy](https://scholar.google.com.co/citations?user=n-rGcH4AAAAJ&hl=en) | 391 | 12 | 19 |
 | 12. | [Paula Giraldo-Gallo](https://scholar.google.com/citations?user=Gr5FaIoAAAAJ) | 355 | 11 | 8 |
 | 13. | [Gabriel Tellez](https://scholar.google.com.co/citations?user=1JHuoIAAAAAJ&hl=en) | 282 | 10 | 23 |
 | 14. | [Juan Manuel Pedraza](https://scholar.google.com.co/citations?user=x8-YWMsAAAAJ&hl=en) | 712 | 9 | 15 |

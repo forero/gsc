@@ -2,8 +2,8 @@ Solamente toma en cuenta citaciones en los últimos cinco años
 
 | ID |Profesor | Citas | H-index | Años con Citaciones |
 | --- | ----  | ----- | --- | --- |
-| 1. | [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 179786 | 176 |  13 | 
-| 2. | [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 75617 | 124 | 11 |
+| 1. | [Andres Florez](https://scholar.google.com.co/citations?user=SUG6ga0AAAAJ&hl=en) | 179786 | 179 |  13 | 
+| 2. | [Juan Carlos Sanabria](https://scholar.google.com/citations?user=ExNZQTIAAAAJ&hl=en)| 75617 | 126 | 11 |
 | 3. | [Yenny R Hernandez](https://scholar.google.com.co/citations?user=KXWwfMMAAAAJ&hl=en) | 8034 | 21 | 13 | 
 | 4. | [Juan Gabriel Ramírez](https://scholar.google.com.co/citations?user=q0NfAgEAAAAJ&hl=en) | 839 | 17 | 13 |
 | 5. | [Alejandra Valencia](https://scholar.google.com.co/citations?user=7Fa-MFYAAAAJ&hl=en) | 915 | 15 | 16 |
